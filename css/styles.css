@@ -1,0 +1,31 @@
+/********************TAG SELECTORS***************/
+body{
+  background-color:#fadcac;
+}
+hr{
+  background-color: #fadcac;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width:10%;
+}
+
+h1{
+  color:#66bfbf;
+}
+
+h3{
+  color:#66bfbf;
+}
+
+/********************CLASS SELECTORS***************/
+/*
+.bacon
+*/
+
+
+
+/********************ID SELECTORS***************/
+/*
+#bacon
+*/
